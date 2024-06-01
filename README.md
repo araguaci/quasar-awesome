@@ -132,9 +132,10 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | [QWidgets](https://github.com/mayank091193/quasar-widgets) , [Docs and Examples](https://quasar-widgets.netlify.app/#/docs) | QWidgets(q-widgets) - An awesome set of beautiful Widgets made with love using Quasar Framework and Vue.js! | v1.1.0 |
 | [QTableCrud](https://github.com/odranoelBR/vue-quasar-crud) , [Docs and Examples](https://vue-quasar-crud.netlify.app/) | QTableCrud(q-table-crud) - All in one QTable with customizable REST Api configuration to create, read, update and delete using axios.js! | v1.0.0 |
 | [QSelectApi](https://github.com/odranoelBR/vue-quasar-select-api) , [Docs and Examples](https://vue-quasar-select-api.netlify.app/) | QSelectApi(q-select-api) - QSelect with automatic fetch/populate options from an API using axios.js, easy filtering, and all the QSelect native power! | v1.0.0 |
-| [QStatistic](https://github.com/Junvary/quasar-app-extension-qstatistic) | QStatistic allows you to display data statistically. |
+| [QStatistic](https://github.com/Junvary/quasar-app-extension-qstatistic), [Examples](https://quasar-qstatistic.netlify.app) | QStatistic allows you to display data statistically. |
 | [QCascader](https://github.com/Junvary/quasar-app-extension-qcascader) | QCascader can be used to display and select tree structured data. |
 | [ssg](https://github.com/freddy38510/quasar-app-extension-ssg) | A Static Site Generator that supports Quasar v1 and v2 |
+| [Hybrid Rendering](https://github.com/jirka124/quasar-hybrid-render/) | Extension allowing for easy use of SSR, CSR, SSG and ISR in your Quasar.js project. |
 
 # Other Community Components and Tools
 > For older Quasar versions or not supplied through a Quasar App Extension
@@ -158,6 +159,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Quasar Steem Beneficiaries | [github](https://github.com/irelandscape/qv-steem-beneficiaries)<br/>[npm](https://www.npmjs.com/package/qv-steem-beneficiaries) | A Quasar/Vue component for easily adding beneficiaries support to your Steem dapp. | v0.17.16 |
 | Quasar calendar | [github](https://github.com/stormseed/quasar-calendar) | A full calendar display in multiple formats that accepts event data and display it in month, week, multi-day, single day and agenda views | v0.15.6 |
 | Laqu-l | [github](https://github.com/laqul/laqul/) | A complete starter kit that allows you create amazing apps that look native thanks to the Quasar Framework. Powered by an API developed in Laravel Framework using the easy GraphQL queries language. And ready to use the Google Firebase features. | v0.15.10 |
+| LaraQuasar | [github](https://github.com/laraquasar/laraquasar) |  Laravel + Quasar Framework starter kit in one place laravel 10.x support, with vite and inertia.js  | v2.13.0 |
 | Quasar Cloud | [github](https://github.com/mstaack/quasar-cloud-demo) | An online file manager project (like dropbox) showing usage of axios, vuex, validation, authentication | v0.15.10 |
 | Quasar Oh-my-zsh | [github](https://github.com/sajt/oh-my-zsh) | A plugin for Oh-my-zsh | v1.0.0 |
 | APIWrapper | [github](https://github.com/RobertoLangarica/quasar-app-extension-api-wrapper), [npm](https://www.npmjs.com/package/api-client-wrapper) | A package designed to wrap up the most common features of an api client implementation, with common features like: Vuex store integration, masive requests, homogeneous responses, concurrency... | v1 |
@@ -172,6 +174,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Links | Description | Quasar |
 | --- | --- | --- | --- |
+| Quasar Prime Admin Template  | [website](https://quasar-prime-admin-template.netlify.app/analytics) | Quasar Prime: Vue.js Admin Template – Powerfully Elegant, Ultimate Dashboard Solution! 🚀 | v2.14.2 |
 | Quasar Minimalist Design  | [website](https://quasar-minimalist-design.netlify.app/) | Quasar Minimalist Design is a premium admin template that offers a range of features and functionalities. It is designed to cater to the needs of businesses and organisations that require a user-friendly and efficient dashboard.| v2.11.6 |
 | Quasar Admin Vue 3 | [github](https://github.com/pratik227/quasar-admin/tree/next), [website](https://next-quasar-admin.netlify.app/) | A Free and beautiful Quasar Admin template for Vue 3 | v2.6.0 |
 | Charttt - image charts | [charts editor](https://editor.charttt.com) [website](https://charttt.com) | Image charts generator that you can embed into emails, blog posts, Slack, Notion, and more. Both the website and the editor are built on Quasar | v1.9.15 |
@@ -280,7 +283,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Kawal Pemilu (PILPRES) | [android](https://play.google.com/store/apps/details?id=org.sholeh.kawalpemilu&rdid=org.sholeh.kawalpemilu) | Election Guard In Indonesia. | v1.0.0-beta.17 |
 | Cashier | [app](http://cashier.alensiljak.eu.org/), [source](https://github.com/alensiljak/cashier) | A personal finance app, companion for ledger/hledger | rolling |
 | Exorcism | [github](https://github.com/siamx/exorcism) | Desktop wallpaper manager | 1.0.0-rc.6 |
-| SunEngine | [github](https://github.com/sunengine/SunEngine), [website](https://sunengine.site) | CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. | 1.2.x+ |
+| SunEngine | [github](https://github.com/sunengine/SunEngine), [website](https://sunengine.site) | CMS+ site engine with blog, articles and forum functionalities. Asp.Net Core on server side. | 1.2.x |
 | Timesheet | [github](https://github.com/valasek/timesheet), [website](http://timesheet.simplesw.net:8080/) | Self-hosted application to manage project reporting. Golang, Gin used on server. | 1.9.2 |
 | Havidea | [website](https://havidea.ru) | Social network for creative people. | 1.0.0-rc.5 |
 | Stelace Heroes Platform | [github](https://github.com/stelace/heroes-platform-demo), [website](https://heroes.demo.stelace.com/s) | Open-source template featuring [Stelace platform runner](https://stelace.com) with Quasar UI and super heroes in NYC. | 1.0.0 |
@@ -353,3 +356,9 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 | Subtitle Downloader | [github](https://github.com/mmarifat/__subtitle_downloader), [website](https://mmarifat.github.io/__subtitle_downloader) | A typescript enabled project to download subtitles of movies / tv-series / tv-shows using opensubtitleapi and optionally moviedb api | v1
 | hive.ausbit.dev | [website](https://hive.ausbit.dev), [github](https://github.com/ausbitbank/hive.ausbit.dev-src) | Hive blockchain explorer and toolkit for uncensorable social media & text/json storage | v1.9.6
 | Cider | [website](https://cider.sh), [github](https://github.com/ciderapp), [discord](https://discord.gg/applemusic), [opencollective](https://opencollective.com/ciderapp) | A new cross-platform Apple Music experience built on Vue.js and written from the ground up with performance in mind. 🚀 | v2.11.10
+| Invoice Generator | [website](https://invoicegenerator.l-chnider.com/), [github](https://github.com/lchnider/invoice-generator) | Generate and download invoices | v2.6.0
+| KifKaf | [iOS](https://apps.apple.com/fr/app/kifkaf-feelings-journal/id6467856580), [PWA](https://www.kifkaf.app/) | A feelings journal designed to help you understand what you need for a more fulfilling life. | v2.14.6
+| golfity | [iOS](https://apps.apple.com/es/app/golfity-track-your-golf-stats/id6447656695?l=en-GB), [Android](https://apps.apple.com/es/app/golfity-track-your-golf-stats/id6447656695?l=en-GB), [PWA](https://app.golfity.com/) | The best tool to track your golf scores like a pro player | v2.15.1
+| Agrobays Agrofoods | [iOS](https://apps.apple.com/ng/app/agrobays-agrofoods/id6463464628), [Android](https://play.google.com/store/apps/details?id=org.greysoft.agrobays.app), [PWA](https://app.agrobays.com/) | Save and book weekly delivery of the best Fruits & Veggies | v2.15.4
+| 5minutes | [Android](https://play.google.com/store/apps/details?id=org.greysoft.fiveminutes.app), [PWA](https://app.5minutes.ng/) | A mentor-mentee learning platform where mentors share content that is consumable in no more than 5minutes | v2.15.4
+| Taskyon | [website](https://taskyon.xyntopia.com), [github](https://www.github.com/xyntopia/taskyon) | A Chatbot App which supports many AI models, among them OpenAI/ChatGPT/3/4 and LLama2. It also gves you the ability to define your own tools in the frontend and has several tools pre-configured such as python & javascript code execution, webbrowser tool and information retrieval | v2 |
